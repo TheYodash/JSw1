@@ -5,3 +5,7 @@ JS Basics Refresher, Loops, Naming Conventions
 ## Prep Exercises
 * [Traffic Light 1](./traffic-light1.js)
 * [Traffic Light 2](./traffic-light-2.js)
+
+## Practice
+* [Practice](./Practice)
+* * [Remove Commas](./Practice/1-remove-the-comma.js)
