@@ -77,5 +77,5 @@
 // fruits.sort()
 // console.log("🚀 ~ fruits:", fruits)
 
-const d = new Date();
-alert(d);
+// const d = new Date();
+// alert(d);
