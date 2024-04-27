@@ -67,10 +67,15 @@
     // console.log(typeof x);
     // console.log(x);
 
-if(1 ==1 ){
-    const x = 20;
-}
+// if(1 ==1 ){
+//     const x = 20;
+// }
 
-console.log(x);
+// console.log(x);
 
+// const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+// fruits.sort()
+// console.log("🚀 ~ fruits:", fruits)
 
+const d = new Date();
+alert(d);
